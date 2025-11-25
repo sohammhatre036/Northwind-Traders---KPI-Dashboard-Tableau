@@ -81,8 +81,8 @@ Helps determine product discontinuation impact and profitability.
 ---
 
 ## 🔗 Live Dashboard  
-*[Add your Tableau Public link here:](https://public.tableau.com/app/profile/soham.mhatre7809/viz/NorthwindTraders-KPIDashboard)*  
-`https://public.tableau.com/...`
+*(https://public.tableau.com/app/profile/soham.mhatre7809/viz/NorthwindTraders-KPIDashboard)*  
+
 
 ---
 
